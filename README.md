@@ -160,21 +160,15 @@ npm run dev
 
 Open: http://localhost:5173
 
-7. 🚀 Deployment (Optional)
+7. 🚀 Deployment
 
-Backend → Deploy FastAPI.
+Backend → Deployed FastAPI.
 
-Frontend → Deploy React app.
+Frontend → Deployed React app.
 
-dbt → Runs in dbt Cloud jobs.
+dbt → Runs  dbt Cloud jobs.
 
 Fivetran → Auto-sync keeps Snowflake fresh.
 
 
-│   ├── models/
-│   │   ├── stg_marketing.sql
-│   │   ├── marketing_performance.sql
-│   │   └── schema.yml
-│   └── dbt_project.yml
-│
-└── README.md
+
